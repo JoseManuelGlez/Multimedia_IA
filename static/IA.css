@@ -1,0 +1,18 @@
+table {
+    border-collapse: collapse; /* Combina los bordes de las celdas para obtener un aspecto más limpio */
+    width: 100%; /* Ancho de la tabla al 100% del contenedor padre (puedes ajustarlo según tus necesidades) */
+}
+
+/* Estilo para las celdas de encabezado */
+th {
+    border: 1px solid #ddd; /* Bordes de 1 píxel sólido con color gris claro */
+    padding: 8px; /* Espaciado interno para mejorar la apariencia */
+    text-align: left; /* Alineación del texto a la izquierda */
+}
+
+/* Estilo para las celdas de datos */
+td {
+    border: 1px solid #ddd; /* Bordes de 1 píxel sólido con color gris claro */
+    padding: 8px; /* Espaciado interno para mejorar la apariencia */
+    text-align: left; /* Alineación del texto a la izquierda */
+}
